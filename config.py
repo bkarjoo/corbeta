@@ -1,0 +1,5 @@
+EOD_DB_HOST = 'localhost'
+EOD_DB_NAME = 'eod'
+EOD_DB_PORT = '5432'
+EOD_DB_USER = 'behroozkarjoo'
+EOD_DB_PASS = '928333'

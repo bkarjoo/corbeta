@@ -1,0 +1,14 @@
+__pycache__/
+*.txt
+*.pyc
+*.pyo
+*.ipynb
+bin/
+etc/
+include/
+lib/
+share/
+pyvenv.cfg
+!etfs.csv
+!requirements.txt
+
